@@ -1,0 +1,4 @@
+org/apache/flink/cep/examples/udf/MyARuleProcessFunction$MyState.class
+org/apache/flink/cep/examples/udf/MyBRuleProcessFunction$MyState.class
+org/apache/flink/cep/examples/udf/MyBRuleProcessFunction.class
+org/apache/flink/cep/examples/udf/MyARuleProcessFunction.class
